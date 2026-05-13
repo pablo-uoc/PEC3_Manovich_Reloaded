@@ -113,6 +113,6 @@ Además, el sistema incorpora convenciones del cine como la continuidad espacial
 - Manovich, L. (2005). *New Media from Borges to HTML*.
 - Crang, M., & Graham, S. (2007). *Sentient Cities: Ambient Intelligence and the Politics of Urban Space*.
 - Farman, J. (2012). *Mobile Interface Theory: Embodied Space and Locative Media*.
-- Markdown.es .- Generado el 13/05/2026 en https://chatgpt.com/c/6a022265-261c-8332-9a78-b9f5523c1154
-- Google. (2026). Google Earth .- https://earth.google.com/ "Giralda de Sevilla"
-- Google. (2026). Google Maps .-  https://maps.google.com/  "Estadio Benito Villamarin"
+- Markdown.es .- Creado el 13/05/2026 en https://chatgpt.com/c/6a022265-261c-8332-9a78-b9f5523c1154
+- Google Earth .- https://earth.google.com/ "Giralda de Sevilla"
+- Google Maps .-  https://maps.google.com/  "Estadio Benito Villamarin"
