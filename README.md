@@ -1,4 +1,4 @@
-# Pablo-Gil-Pena_Manovich_PEC_003_Reloaded
+# PEC3_Manovich_Reloaded
 
 **Asignatura:** Cultura Digital  
 **Tipo de trabajo:** Informe – Ensayo  
