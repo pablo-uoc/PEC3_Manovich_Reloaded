@@ -21,7 +21,8 @@ Esta estructura se articula con una intensa hibridación de lenguajes visuales. 
 En conjunto, ambos casos evidencian cómo el software actúa como una capa integradora capaz de articular distintos medios en una única experiencia. Desde las “gafas de Manovich”, Google Earth y Google Maps no son simplemente aplicaciones funcionales, sino ejemplos de cómo la cultura digital produce nuevos lenguajes híbridos que transforman nuestra relación con el espacio.
 
 En lugar de representar el mundo de forma estática, estos sistemas lo convierten en algo navegable, interactivo y dinámico, redefiniendo así tanto la percepción como el conocimiento del entorno en la era digital.
-# 1. Google Earth: la base de datos como forma cultural
+
+##. Google Earth: la base de datos como forma cultural
 
 Desde la perspectiva de Lev Manovich, uno de los rasgos definitorios de los nuevos medios es la sustitución de la narrativa lineal por la lógica de la base de datos. Google Earth encarna este principio de manera ejemplar. En lugar de presentar un recorrido fijo, ofrece un archivo geoespacial global que el usuario explora libremente. Cada acción —zoom, desplazamiento y búsqueda— constituye una operación sobre una base de datos compleja que integra información cartográfica, imágenes satelitales y modelos tridimensionales.
 
@@ -31,7 +32,7 @@ Asimismo, Google Earth ejemplifica la hibridación de lenguajes visuales. La car
 
 ---
 
-# 2. Introducción: Google Maps
+## Introducción: Google Maps
 
 El caso de Google Maps con Street View profundiza la lógica de hibridación al introducir una dimensión inmersiva. Aquí, la integración se produce entre cartografía digital, fotografía panorámica 360° y navegación interactiva. El paso del mapa a la vista a nivel de calle representa una transformación fundamental: el usuario deja de observar el espacio desde una perspectiva externa para experimentarlo desde una posición situada.
 
@@ -48,7 +49,7 @@ Esta hibridación no solo es técnica, sino también perceptiva. Mientras que el
 
 ---
 
-# 3. Introducción: Google Earth
+## Introducción: Google Earth
 
 El caso de Google Earth es especialmente adecuado para explicar el concepto de hibridación porque ejemplifica la integración profunda de múltiples medios en una única interfaz operativa. Desde la perspectiva de Manovich, los nuevos medios no se definen por la simple digitalización de contenidos, sino por su reorganización en sistemas de software. Como afirma el autor:
 
@@ -76,7 +77,7 @@ Aquí, la experiencia se organiza como exploración más que como relato.
 
 ---
 
-# 4. El software como motor de la cultura
+## El software como motor de la cultura
 
 Tanto Google Earth como Google Maps evidencian otro de los postulados centrales de Manovich: la centralidad del software en la cultura contemporánea. Estas plataformas no son simplemente contenedores de información, sino sistemas dinámicos que integran distintos medios y permiten su interacción en tiempo real. El software actúa como una capa que organiza, procesa y presenta datos de manera coherente, haciendo posible la hibridación.
 
@@ -84,7 +85,7 @@ Desde esta perspectiva, la innovación no reside únicamente en los contenidos, 
 
 ---
 
-# 5. Justificación de casos de Hibridación: I / II
+## Justificación de casos de Hibridación: I / II
 
 El caso de Google Maps con Street View también es altamente adecuado para analizar la hibridación, ya que intensifica la convergencia entre representación espacial e inmersión interactiva. En este sistema, la transición entre mapa y experiencia a nivel de calle elimina la separación tradicional entre representación abstracta y percepción situada.
 
@@ -105,7 +106,7 @@ Además, el sistema incorpora convenciones del cine como la continuidad espacial
 
 ---
 
-# 6. Bibliografía / Recursos
+## Bibliografía / Recursos
 
 - Lev Manovich (2001). *The Language of New Media*. MIT Press.
 - Lev Manovich (2013). *Software Takes Command*. Bloomsbury.
